@@ -1,0 +1,6 @@
+Hello, this is a very long winded
+message. This should hopefully 
+work with my functions!
+However, this 1234 should look like ####
+if using the second method.
+Is that the case? (i hope so).
